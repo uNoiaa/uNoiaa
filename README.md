@@ -7,12 +7,11 @@
   *Algumas Coisas Sobre Mim*
 
 - 🔭 Atualmente estudando pra entrar no mercado de trabalho.
-- 🌱 Estudando HTML5 CSS3 e JAVASCRIPT.
-- 👯 Sempre em busca de conhecer novas pessoas e vivenciar novas expêriencias.
-- ⚡ Fato divertido: Meu nome é Noia ._.
+- 🌱 Estudando HTML5 CSS3 e aprendendo Python
+- 👯 Sempre em busca de conhecer coisas novas e evoluir.
+- ⚡ Fato engraçado: Meu nome é Noia ._.
   
   <div style="display: inline_block;"><br>
-   <img align="center" alt="Noia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Noia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Noia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <div>
